@@ -1,2 +1,5 @@
 .vs/
 obj/
+*.log
+**/logs
+**/[Dd]ebug #Debug or debug
