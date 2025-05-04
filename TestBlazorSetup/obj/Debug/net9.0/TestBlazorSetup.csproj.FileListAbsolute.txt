@@ -16,7 +16,6 @@ C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\sco
 C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\scopedcss\bundle\TestBlazorSetup.styles.css
 C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\scopedcss\projectbundle\TestBlazorSetup.bundle.scp.css
-C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\compressed\d67k6isiiw-khy4lop6wu.gz
 C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\compressed\sq9g7l08za-bqjiyaj88i.gz
 C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\compressed\0pm386zoxa-c2jlpeoesf.gz
 C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\compressed\osd1zyzqmt-erw9l3u2r3.gz
@@ -78,3 +77,5 @@ C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\ref
 C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\TestBlazorSetup.pdb
 C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\TestBlazorSetup.genruntimeconfig.cache
 C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\ref\TestBlazorSetup.dll
+C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\TestBlazorSetup.sourcelink.json
+C:\Users\ncook\source\repos\TestBlazorSetup\TestBlazorSetup\obj\Debug\net9.0\compressed\d67k6isiiw-w7mf952350.gz
